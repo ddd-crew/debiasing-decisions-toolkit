@@ -4,7 +4,8 @@
 
 Created by **Evelyn van Kelle**,  **Gien Verschatse**, and **Kenny Schwegler**, co-authors of [Collaborative Software Design](https://collaborative-software-design.com) (Manning, 2024).
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](#Contributing)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#Contributing)
 
 ## Why this toolkit exists
 
